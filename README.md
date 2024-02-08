@@ -1,5 +1,5 @@
 # Sampling
-Submitted By - Pratham Aggarwal
+Submitted By - Pratham Aggarwal(102117127)
 
 |                     | Random Sampling | Stratified Sampling | Systematic Sampling | Cluster Sampling | Convenience Sampling |
 |---------------------|-----------------|---------------------|---------------------|------------------|----------------------|
