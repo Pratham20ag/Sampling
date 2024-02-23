@@ -1,4 +1,8 @@
 # Sampling
+Comparing Different models on a dataset sampled from an existing DataSet.    
+DataSet used - Credit Card Data
+
+
 Submitted By - Pratham Aggarwal(102117127)
 
 |                     | Random Sampling | Stratified Sampling | Systematic Sampling | Cluster Sampling | Convenience Sampling |
